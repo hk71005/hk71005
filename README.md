@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harikrishnan%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20%26%20Business%20Systems&descAlignY=62&descSize=16" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Harikrishnan%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=16)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Harikrishnan+%F0%9F%91%8B;Full-Stack+Dev+%7C+React+%2B+Next.js+%2B+Flask;Building+AI-Powered+Web+Apps;YOLO+Object+Detection+%2B+OpenCV;Open+to+Collaborate+%26+Learn!" alt="Typing SVG" />
