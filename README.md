@@ -17,7 +17,7 @@ class Harikrishnan:
     name        = "Harikrishnan G"
     github      = "hk71005"
     location    = "Chennai, India"
-    degree      = "B.Tech - CS & Business Systems (2023-2027)"
+    degree      = "B.Tech – CS & Business Systems (2023–2027)"
 
     stack = [
         "React", "Next.js", "Flask",
@@ -31,11 +31,11 @@ class Harikrishnan:
         "Cloud Deployment (AWS / Azure)"
     ]
 
-    fun_fact = "I built a marketplace with AI-based product detection"
+    fun_fact = "I built a marketplace with AI-based product detection 🛒🤖"
 
     def motto(self):
         return "Build things that matter. Ship fast. Learn always."
-` ``
+```
 
 <br clear="right"/>
 
@@ -199,16 +199,16 @@ class Harikrishnan:
 ☁️  Cloud             → AWS (EC2, S3, Lambda), Azure Deployments
 🤖 Advanced AI/ML     → Model Fine-tuning, LangChain, RAG Pipelines
 🔐 Security           → Auth, JWT, OAuth2
-` ``
+```
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hk71005&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harikrishnan-710-g)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hk71005)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ghrarikrishnan710@gmail.com)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harikrishnan-710-g)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hk71005)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ghrarikrishnan710@gmail.com)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
